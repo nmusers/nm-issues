@@ -2,11 +2,13 @@
 NONMEM issue reporting &amp; tracking. This is an issue-only repo.
 
 ## Issue report
-Please be informative in issue reporting so that it is reproducible. In the minimum, please share
+For bug report, please be informative in issue reporting so that it is reproducible. In the minimum, please share
 - Platform (windows, linux, macos with versions)
 - NONMEM version
 - Compiler (gfortran version, MPI version, etc)
 - Code snippet/error message related to the issue
+
+You may choose the `[BUG]` template to fill in above information.
 
 In additionm, it is recommended that the submission contains a minimal reproducible example (control stream + dummy data). It is also recommended to label/tag the issue.
 
