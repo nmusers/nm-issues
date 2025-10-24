@@ -20,4 +20,4 @@ You will need a github account for issue reporting.
 NONMEM dev team will keep track of the issues and resolve them according to priority. Please expect iterations and assist testing.
 
 ## Additional resources
-This repo is not for model discussion. Please refer to xxx & xxx for that.
+This repo is not for model discussion. Please refer to documentation site and guides for that.
