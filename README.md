@@ -12,6 +12,8 @@ You may choose the `[BUG]` template to fill in above information.
 
 In additionm, it is recommended that the submission contains a minimal reproducible example (control stream + dummy data). It is also recommended to label/tag the issue.
 
+For feature request, please state clearly what you would like to be added, and provide reference if there is.
+
 You will need a github account for issue reporting.
 
 ## Issue tracking and resolution
