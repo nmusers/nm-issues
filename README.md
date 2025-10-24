@@ -8,11 +8,9 @@ For bug report, please be informative in issue reporting so that it is reproduci
 - Compiler (gfortran version, MPI version, etc)
 - Code snippet/error message related to the issue
 
-You may choose the `[BUG]` template to fill in above information.
+In additionm, it is recommended that the submission contains a minimal reproducible example (control stream + dummy data). It is also recommended to label/tag the issue. You may choose the `[BUG]` template to fill in above information.
 
-In additionm, it is recommended that the submission contains a minimal reproducible example (control stream + dummy data). It is also recommended to label/tag the issue.
-
-For feature request, please state clearly what you would like to be added, and provide reference if there is.
+For feature request, please state clearly what you would like to be added, and provide reference if there is. You may use `[Request]` template.
 
 You will need a github account for issue reporting.
 
