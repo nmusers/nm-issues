@@ -1,5 +1,5 @@
 # nm-issues
-NONMEM issue reporting &amp; tracking. This is an issue-only repo.
+NONMEM issue reporting &amp; tracking. This is an issue/discussion-only repo.
 
 ## Issue report
 For bug report, please be informative in issue reporting so that it is reproducible. In the minimum, please share
